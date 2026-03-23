@@ -52,4 +52,4 @@ Developed by: **Eng. Moamen Ahmed El Sayed**
 * `/media`: Demo video and high-res photos.
 
 ---
-**License:** MIT License. Designed for professional portfolio demonstration.
+**License:** GNU AFFERO GENERAL PUBLIC LICENSE
